@@ -1,0 +1,2 @@
+# clone-news
+Teste completo
